@@ -1,0 +1,6 @@
+# \u8BBE\u5907\u4FE1\u606F
+drive:
+  ip: 192.168.1.20
+  port: 8000
+  username: admin
+  password: ab123456

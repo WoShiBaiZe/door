@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/win64 V5.3.6.30eclipse实现人脸抓拍获取人脸评分/Test1/examples.jar"/>
+	<classpathentry kind="lib" path="E:/win64 V5.3.6.30eclipse实现人脸抓拍获取人脸评分/Test1/jna.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
